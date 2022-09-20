@@ -11,11 +11,11 @@ function nameToTag(name){
   
   let map_nameID = {
     // Key is name from Spreadsheet, value is user ID from Slack workspace
-    "Petter": "UGF1ERTS9",
-    "Sofie": "URPT4PM7S",
-    "Kristian": "UMCNGUZ8X",
-    "Frederick": "UGEL80S2Y",
-    "Johannes": "UN6MADJ5Q"
+    "James": "Uxxxxxxxx",
+    "Linda": "Uxxxxxxxx",
+    "Robert": "Uxxxxxxxx",
+    "Mary": "Uxxxxxxxx",
+    "William": "Uxxxxxxxx"
   }
   // Try to look up name 
   tag = map_nameID[name];
