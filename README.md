@@ -11,8 +11,8 @@ For my case, I had a spreadsheet on the form
 
 | Date | First name | Second name |
 |------|------------|-------------|
-|      |            |             |
-|      |            |             |
+| __   | __         | __          |
+| __   | __         | __          |
 
 and I wanted the bot to tag the users (based on their first names) in a specific channel when today's date matches that of the date column. This is done with a predefined payload whose names (or tags of user IDs based on names) are inserted based on the lookup of the date.
 
