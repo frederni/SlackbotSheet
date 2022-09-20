@@ -5,6 +5,8 @@ Slackbot message integration using incoming webhooks with Google Apps Script
 
 This can generally be used for any project involving a Slack bot sending some message based on the values of a spreadsheet.
 
+You first need to set up a bot on Slack with an incoming webhook (see [this guide](https://slack.com/help/articles/115005265063-Incoming-webhooks-for-Slack)). Then you can set up the script as a Google Apps Script (see [this guide](https://developers.google.com/apps-script)) and configure timed triggers to automate the messages.
+
 ### Features
 
 For my case, I had a spreadsheet on the form
